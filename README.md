@@ -5,9 +5,9 @@
 
 ### Hi, I'm Akshay
 
-
-- 🔭 I’m currently working on 2D Game Development [here](https://github.com/UQdeco2800/2021-ext-studio-2)
-[![wakatime](https://wakatime.com/badge/user/f6d32364-9816-461c-bc94-5ee9c9d8fa75/project/e37f6c7c-7da4-4a50-8e45-9d2ed3c75696.svg)](https://wakatime.com/badge/user/f6d32364-9816-461c-bc94-5ee9c9d8fa75) since 30th September 2021
+- 🔭 I'm currently working on Designing Language Learning Interfaces as a part of my honours thesis at UQ.
+- 🍁 Last semester, I worked on 2D Game Development [here](https://github.com/UQdeco2800/2021-ext-studio-2)
+[![wakatime](https://wakatime.com/badge/user/f6d32364-9816-461c-bc94-5ee9c9d8fa75/project/e37f6c7c-7da4-4a50-8e45-9d2ed3c75696.svg)](https://wakatime.com/badge/user/f6d32364-9816-461c-bc94-5ee9c9d8fa75) since 30th September 2021 - 30 November 2021
 - 🌱 I’m currently learning web & mobile development
 - 👨🏻‍💻 I'm currently looking for interning opportunities in mobile and web development space.
 - 👯 I’m looking to collaborate on mobile flutter apps
