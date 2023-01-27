@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently looking for Graduate Software Engineering Roles in Brisbane, Sydney & Melbourne.
 - 👨🏽‍🎓 I've recently graduated with a Bachelors of Software Engineering (Honours) for The University of Queenland.
-- 👨‍💻 I’m currently learning web development to contribute to my personal website [avarma.me](avarma.me)
+- 👨‍💻 I’m currently learning web development to contribute to my personal website [avarma.me](https://avarma.me)
 - 📱 At the same time I'm learning Swift UI and IOS app development.
 - 👯 I’m looking to work on projects in the abovementioned areas.
 - 🙋‍♂️ I’m looking for assistance with job opportunities.
