@@ -2,18 +2,18 @@
 <img align = 'right' src="https://github-readme-stats.vercel.app/api/wakatime?range=last_7_days&username=butcanudothis&theme=tokyonight" height ="150" width ="360">
 
 
+### Hi, I'm Akshay 👋
+- 🔍 Seeking Graduate and Junior Developer roles in Brisbane, Sydney & Melbourne.
+- 🎓 Bachelor of Software Engineering (Honours) graduate from the University of Queensland.
+- 💻 Skilled in Java, C, and currently learning web development with React.
+- 📱 Interested in mobile app development with Flutter and Swift UI.
+- 🤝 Open to collaborating on projects related to my interests.
+- 🙏 Seeking job opportunities and career growth in the software development industry.
 
+When I'm not coding, you can find me running 🏃‍♂️, bouldering 🧗‍♂️, or following the latest Formula 1 🏎️ races. Let's connect and chat about tech, design, or anything else that sparks our interest!
 
-### Hi, I'm Akshay
-
-- 🔭 I'm currently looking for Graduate Software Engineering Roles in Brisbane, Sydney & Melbourne.
-- 👨🏽‍🎓 I've recently graduated with a Bachelors of Software Engineering (Honours) for The University of Queenland.
-- 👨‍💻 I’m currently learning web development to contribute to my personal website [avarma.me](https://avarma.me)
-- 📱 At the same time I'm learning Swift UI and IOS app development.
-- 👯 I’m looking to work on projects in the abovementioned areas.
-- 🙋‍♂️ I’m looking for assistance with job opportunities.
+Personal Site - [avarma.me](https://avarma.me)
 - 📫 How to reach me: 
-
     - For Collaborations [iav@duck.com](mailto:iav@duck.com?subject=Regarding%20collaborations%20from%20Github)
     - For Career Opportunities [applications.akshay.varma@gmail.com](mailto:applications.akshay.varma@gmail.com?subject=Regarding%20cJob%20Opportunities)
     - For Others [butcanudothis@pm.me](mailto:butcanudothis@pm.me?subject=Regarding%20collaborations%20from%20Github)
