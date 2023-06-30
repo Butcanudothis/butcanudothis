@@ -12,7 +12,7 @@
 
 When I'm not coding, you can find me running 🏃‍♂️, bouldering 🧗‍♂️, or following the latest Formula 1 🏎️ races. Let's connect and chat about tech, design, or anything else that sparks our interest!
 
-Personal Site - [avarma.me](https://avarma.me)
+Personal Site - [av10.tech](https://av10.tech)
 - 📫 How to reach me: 
     - For Collaborations [iav@duck.com](mailto:iav@duck.com?subject=Regarding%20collaborations%20from%20Github)
     - For Career Opportunities [applications.akshay.varma@gmail.com](mailto:applications.akshay.varma@gmail.com?subject=Regarding%20cJob%20Opportunities)
