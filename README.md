@@ -4,7 +4,7 @@
 
 # Hi, I'm Akshay 👋
 - 🚀 Currenly building seemless UX as a Frontend Engineer [@Blockstash](https://github.com/BlockStash)
-- 🔍 Looking for Full-Stack Developer roles in Brisbane, Sydney & Melbourne.
+- 🧑🏻‍💻 These days I work as a Developer at [NetEngine](https://netengine.com.au/)
 - 👷‍♂️ I'm always building new stuff! Check out my latest projects on [av10.tech/projects](https://av10.tech/projects)
 - 🎓 Bachelor of Software Engineering (Honours) '22 University of Queensland.
 - 💬 Soft Skills - Collaborative Team Player, Independent Self‐Starter in Agile Environments, Effective Presentation Skills, Quick Adaptation to new tech stacks Tech Skills JavaScript, TypeScript, JAVA, Python, C, NoSQL DB, SQL DB ‐ Versatile and adaptive in utilizing various languages
